@@ -61,6 +61,12 @@ input{
     padding: 17px;
     width: 180px;
 }
+
+input:hover{
+    background-color: rgb(32, 16, 32);
+    
+}
+
 footer{
     display: flex;
     justify-content: flex-end;
